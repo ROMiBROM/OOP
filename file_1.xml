@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.XSL"?>
+<?xml-model href="zxc.xsd"?>
+<students>
+<univer>
+<name>Алиса</name>
+<surname>Фролова</surname>
+<patronymic>Олеговна</patronymic>
+<dateofbirth>20.03.2000</dateofbirth>
+<fromcity>Минск</fromcity>
+</univer>
+<univer>
+<name>Иван</name>
+<surname>Иванов</surname>
+<patronymic>Артемович</patronymic>
+<dateofbirth>30.05.2001</dateofbirth>
+<fromcity>Гродно</fromcity>
+</univer>
+<univer>
+<name>Владислав</name>
+<surname>Парфеевец</surname>
+<patronymic>Неизвестно</patronymic>
+<dateofbirth>30.01.2000</dateofbirth>
+<fromcity>Иваново</fromcity>
+</univer>
+
+</students>

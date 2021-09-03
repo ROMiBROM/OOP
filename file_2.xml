@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.XSL"?>
+<?xml-model href="zxc.xsd"?>
+<students>
+<univer>
+<name>Вероника</name>
+<surname>Борисевич</surname>
+<patronymic>Игоревна</patronymic>
+<dateofbirth>09.04.2002</dateofbirth>
+<fromcity>Минск</fromcity>
+</univer>
+<univer>
+<name>Кристина</name>
+<surname>Птичка</surname>
+<patronymic>Владиславовна</patronymic>
+<dateofbirth>12.12.2003</dateofbirth>
+<fromcity>Борисов</fromcity>
+</univer>
+<univer>
+<name>Антон</name>
+<surname>Кузнецов</surname>
+<patronymic>Матвеевич</patronymic>
+<dateofbirth>17.07.2004</dateofbirth>
+<fromcity>Мозырь</fromcity>
+</univer>
+
+</students>
